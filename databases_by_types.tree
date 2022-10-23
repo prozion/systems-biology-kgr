@@ -1,0 +1,64 @@
+databases_by_types
+	articles ru:"библиографические и реферативные базы данных"
+		Base
+		ELibrary
+		Embase
+		Google_Scholar
+		Lens
+		OATD
+		OpenDOAR
+		ProQuest
+		PubMed
+		Scopus
+		Web_of_Science		
+	dna_sequences ru:"базы данных последовательностей ДНК"
+		DDBJ
+		ENA
+		GenBank
+		RefSeq
+	protein_sequences ru:"базы данных последовательностей белков"
+		PIR
+		UniProtKB
+	3d_structures ru:"базы данных 3D структур"
+		CCDC
+		EMDB
+		PDB
+	chemical_structures ru:"базы данных химических соединений"
+		CAS
+		CSDB
+		PubChem
+		Reaxys
+	genes_and_annotations ru:"базы данных геномов и аннотаций"
+		Ensembl
+		GenAge
+		NCBI_Genome
+		UCSC_Genome_Browser
+	genome_variations ru:"базы данных вариаций генома"
+		ClinVar
+		DbSNP
+		DbVar
+		OMIM
+	genome-phenotype ru:"базы данных геном-фенотип"
+		DbGaP
+		ICGC
+	interactions ru:"базы данных взаимодействий"
+		DrugBank
+		Kalium
+		MINT
+		STRING
+	signal_pathways ru:"базы данных сигнальных путей"
+		KEGG
+		Reactome
+		WikiPathways
+	sequencing_data ru:"базы данных секвенирования"
+		SRA
+	pathologies_and_medical_data ru:"базы данных заболеваний и меицинской информации"
+		ClinicalTrials
+		Pharma_Intelligence
+	gene_expression_and_histology ru:"базы данных по экспрессии генов/гистологии"
+		Expression_Atlas
+		Human_Protein_Atlas
+	taxonomies ru:"базы данных по таксономии"
+		NCBI_Taxonomy_Browser
+	search_engines ru:"поисковые движки по биологическим базам данных"
+		Expasy

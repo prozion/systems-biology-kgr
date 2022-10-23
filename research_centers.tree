@@ -1,0 +1,103 @@
+research_centers
+	EML_Research former-name:"European Media Laboratory" url:eml-r.org
+	EMBL deabbr:"European Molecular Biology Laboratory" hq:Heidelberg,Grenoble,Hamburg,Hinxton,Monterotondo,Barcelona start:1974
+	canada
+		BaderLab hq:Toronto uni:UToronto
+		Donnelly_Centre uni:UToronto
+		OICR d	eabbr:"Ontario Institute for Cancer Research" hq:Toronto start:2005
+	china
+		BGI_Group former-id:Beijing_Genomics_Institute hq:Shenzhen start:1999
+	england
+		BirbeckCollege hq:Bloomsbury uni:ULondon start:1823
+		CISBAN deabbr:"Center for Integrated Systems Biology of Ageing and Nutrition" hq:Newcastle uni:UNewcastle url:ncl.ac.uk/cisban
+		EBI alt-id:European_Bioinformatics_Institute,EMBL-EBI name:"European Bioinformatics Institute" hq:Hinxton part-of:EMBL start:1992
+		IBabraham name:"Babraham Institute" hq:Babraham
+		ISanger hq:Hinxton
+		MCISB name:"Manchester Centre for Integrative Systems Biology" uni:UManchester
+		MIB name:"Manchester Institute of Biotechnology" hq:Manchester uni:UManchester start:2006 url:mib.ac.uk
+		OUCS deabbr:"Oxford University Computing Services" hq:Oxford uni:UOxford start:1958 end:2012
+		UManchester-MIB deabbr:"Manchester Institute of Biotechnology" uni:UManchester
+		Wellcome_Sanger_Institute hq:Hinxton start:1992 campus:Wellcome_Genome_Campus
+	france
+		CGMC name:"Centre de Genetique Moleculaire et Chromosomique" part-of:CNRS start:2000 url:cgmc-psl.fr
+		EISBM name:"European Institute for Systems Biology and Medicine" hq:Lyon
+		ICurie name:"Curie Institute" hq:Paris
+		IGDR deabbr:"Institut de Génétique et Développement de Rennes" hq:Rennes start:1993
+		INSB deabbr:"Institute of Biological Sciences" part-of:CNRS
+		INSERM deabbr:"The National Institute of Health and Medical Research" part-of:CNRS hq:Paris start:1964
+	germany
+		CBioTu deabbr:"Center for Bioinformatics Tubingen" uni:UTubingen
+		IMISE deabbr:"Institute for Medical Informatics, Statistics and Epidemiology" uni:ULeipzig
+		IPK_Gatersleben name:"Leibniz Institute of Plant Genetics and Crop Plant Research" hq:Gatersleben part-of:Leibniz_Association
+		Leibniz_Association name:"Leibniz Association" hq:Berlin
+		Max_Planck_Society hq:Munich start:1911
+		MPII deabbr:"Max Planck Institute for Informatics" hq:Saarbrucken start:1993 url:mpi-inf.mpg.de
+		MPI-CBG deabbr:"Max Planck Institute of Molecular Cell Biology and Genetics" hq:Dresden start:1998
+		Systems_Biology_Bioinformatics_Rostock uni:URostock url:sbi.uni-rostock.de
+		Tubingen_Center_for_Bioinformatics hq:Tubingen uni:UTubingen
+	iceland
+		UIceland-CSB deabbr:"Center for Systems Biology, University of Iceland" uni:UIceland hq:Reykjavik
+	italy
+		Mario_Negri_Institute name:"Mario Negri Institute for Pharmacological Research" hq:Milan
+	japan
+		AIST name:"National Institute of Advanced Industrial Science and Technology" hq:Tsukuba
+		CBRC deabbr:"Computational Biology Research Center" rcenter:AIST
+		IAB deabbr:"Institute for Advanced Biosciences" uni:UKeio
+		Japanese_Institute_of_Genetics hq:Mishima start:1949
+		RIKEN alt-id:Riken_CIMS name:"RIKEN Center for Integrative Medical Sciences"@en,"理研"@jp hq:Wako start:1917
+		Systems_Biology_Institute alt-id:SBI hq:Tokyo url:sbi.jp president:Hiroaki_Kitano
+	new_zealand
+		ABI name:"Auckland Bioengineering Institute" hq:Auckland uni:UAuckland
+	russia
+		ICB alt-id:ИБК_РАН deabbr:"Institute of Cell Biophysics" name:"Институт Биофизики Клетки РАН" hq:Pushchino start:1952,1990 url:www.icb.psn.ru 
+		Institute_of_Systems_Biology alt-id:ISB,ИСБ hq:Новосибирск
+	scotland
+		UEMS name:"University of Edinburgh Medical School" uni:UEdinburgh
+	south_africa
+		STIAS deabbr:"Stellenbosch Institute for Advanced Study" uni:UStellenbosch
+	spain
+		Barcelona_Supercomputing_Center alt-id:BSC hq:Barcelona
+	switzerland
+		Swiss_Institute_of_Bioinformatics alt-id:SIB hq:Lausanne start:1998
+		Institute_of_Neuroinformatics uni:ETH_Zurich
+	turkey
+		BilkentCB name:"Bilkent Center for Bioinformatics" uni:UBilkent
+	usa
+		Biocompexity_Institute old-id:Virginia_Bioinformatics_Institute hq:Blacksburg url:bi.vt.edu uni:Virginia_Tech
+		BIVT deabbr:"Biocomplexity Institute of Virginia Tech" hq:Blacksburg,Arlington uni:Virginia_Tech
+		BNMC deabbr:"Biological Network Modeling Center" hq:Pasadena uni:Caltech url:beckmaninstitute.caltech.edu/bnmc.shtml
+		Burnham_Institute deabbr:"Burnham institute for medical research" hq:La_Jolla start:1976
+		CCAM deabbr:"Center for Cell Analysis and Modeling" uni:UConn_Health
+		CIMS name:"Courant Institute of Mathematical Sciences" hq:New_York start:1935	uni:NYU
+		Cold_Spring_Harbor_Laboratory short-id:CSHL hq:New_York start:1890
+		Craig_Venter_Institute alt-id:JCVI deabbr:"J. Craig Venter Institute"
+		CSHL deabbr:"Cold Spring Harbor Laboratory" hq:New_York
+		Dana-Farber deabbr:"Dana-Farber Cancer Institute" hq:Boston start:1947 url:dana-farber.org affiliate-of:Harvard_Medical_School
+		Fred_Hutchinson_Cancer_Research_Center hq:Seattle
+		FCCC deabbr:"Fox Chase Cancer Center" hq:Philadelphia
+		GUMC name:"Georgetown University Medical Center" hq:Washington uni:Georgetown_University
+		Harvard_Medical_School hq:Boston start:1782 uni:UHarvard
+		HILS deabbr:"The Huck Institute for Life Sciences" uni:UPenn
+		ICSI deabbr:"International Computer Science Institute" hq:Berkeley start:1988 
+		IGladstone name:"Gladstone Institutes" hq:San_Francisco
+		IHMC deabbr:"Florida Institute for Human and Macine Cognition" hq:Pensacola url:ihmc.us
+		Institute_for_Systems_Biology hq:Seattle url:systemsbiology.org abbr:ISB
+		IOB uni:UJohnsHopkins
+		ISB deabbr:"Institute for Systems Biology" hq:Seattle start:2000
+		JCVI alt-id:Craig_Venter deabbr:"J. Craig Venter Institute" hq:Rockville start:2006
+		JHUSOM deabbr:"Johns Hopkins School of Medicine" hq:Baltimore uni:UJohnsHopkins start:1893
+		LBNL deabbr:"Lawrence Berkeley National Labs" uni:UCalifornia hq:Berkeley start:1931
+		Massachusetts_General_Hospital hq:Boston start:1811
+		Microsoft_Research hq:Redmond company:Microsoft start:1991
+		MSKCC name:"Memorial Sloan Kettering Cancer Center" hq:New_York
+		National_Cancer_Institute hq:Rockville part-of:NIH
+		NCBI deabbr:"National Center for Biotechnology Information" hq:Bethesda start:1988 part-of:NLM
+		NYULMC name:"NYU Langone Medical Center" uni:NYU
+		SRI deabbr:"Stanford Research Institute" hq:Menlo_Park start:1946
+		Rockford_Research_Institute hq:Rockford start:1961
+		RPCCC deabbr:"Roswell Park Comprehensive Cancer Center" hq:Buffalo start:1898 url:roswellpark.org
+		SCSB alt-id:Stanford_Center_for_Systems_Biology uni:UStanford
+		TIGR deabbr:"The Institute for Genomic Research" hq:Rockville
+		UChicago-CDIS name:"Center for Data Intensive Science" uni:UChicago
+		UConn_SOM deabbr:"UConn School of Medicine" hq:Farmington url:medicine.uconn.edu
+		USC_NCCC name:"USC Norris Comprehensive Cancer Center" uni:USouthernCalifornia

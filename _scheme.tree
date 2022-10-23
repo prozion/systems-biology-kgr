@@ -1,0 +1,15 @@
+systems-biology-kgr-scheme a:owl/Ontology
+	properties
+		aa deabbr:"anti-aging" d:"marks object as related to anti-aging research,development or popularization"
+		bdate deabrr:"person's birthdate"
+		before d:"former names of organization"
+		crdate deabbr:"date of person's cryopreservation (presumably) after his death"
+		ddate deabrr:"person's deathdate"
+		end d:"finishing time for some process"
+		founder d:"founder of organization"
+		hq deabbr:"headquarters"
+		ht deabbr:"hometown"
+		prof deabbr:"professor"
+		start d:"start time of some process"
+		syn deabbr:"synonym" d:"synonymical relation"
+		year syn:start d:"year when something emerged, the beginning of something"

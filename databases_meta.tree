@@ -1,0 +1,8 @@
+databases_meta
+	Embase thesaurus:EMTREE
+	PID format:BioPAX
+	PubMed uses:Medline thesaurus:MeSH
+	Rhea thesaurus:CheBI
+	SCOP org:UK_MRC
+	UniProt format:FASTA,GFF,RDF,XML
+	WikiPathways format:GPML,BioPAX

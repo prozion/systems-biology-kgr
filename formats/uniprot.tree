@@ -1,0 +1,13 @@
+uniprot a:Ontology dc/title:"ontology-like description for UniProt database scheme" 
+	namespaces
+		dc ns:http://purl.org/dc/terms/ 
+		_ ns:http://ontologies.denis-shirshov.ru/tabtree#
+		_ ns:http://ontologies.denis-shirshov.ru/tabtree-bio-databases#
+	properties
+		end d:"A position of the last encoding nucleotide for this gene" og-term:конец_региона range:Integer example:122451471
+		entry-name d:"entry name for the gene at UniProtKB/Swiss-Prot gene files, differs from the gene name only by the suffix '_HUMAN'" range:Id example:DAZ1_HUMAN
+		go d:"GO annotations for this gene" example:GO:0016322,GO:0010039 range:String search-url:ebi.ac.uk/QuickGO
+		mim-code d:"A code for the gene in the OMIM (Online Mendelian Inheritance in Man) database" range:Integer search-url:omim.org example:400003
+		pos d:"A position of the gene on the chromosome related to G-band" og-term:регион range:Id example:7q21.2-q22
+		start d:"A position of the first encoding nucleotide for this gene" og-term:начало_региона range:Integer example:122451471
+		swprot-ac d:"Swiss-Prot database accession number" search-url:uniprot.org/statistics/Swiss-Prot range:Id example:Q9NQZ3

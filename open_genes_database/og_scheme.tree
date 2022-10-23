@@ -1,0 +1,37 @@
+open_genes_db_scheme a:owl/Ontology dc/title:"ontology-like description for Open Gene database scheme" 
+	namespaces
+		dc ns:http://purl.org/dc/terms/ 
+		_ ns:http://ontologies.denis-shirshov.ru/tabtree# spec:https://github.com/prozion/ontologies/blob/master/tabtree/tabtree.tree
+		_ ns:http://ontologies.denis-shirshov.ru/tabtree-bio-databases# spec:https://github.com/prozion/biomed_world/blob/master/_meta/tabtree_biodatabases.tree
+	classes
+		Expression
+		FunctionalCluster +domain:FunctionalCluster
+		Gene
+		Species d:"phylogenetic tree of species" ref:<?>
+	properties +section-hierarchy-relation:subproperty-of
+		_gene_property +domain:Gene
+			ageMya deabbr:"age millions years ago" d:"how long does this gene exist" range:TimeInterval example:3000-3500
+			agePhylo issue:"Procaryota in front-end, Prokaryota in API example" range:Species example:Prokaryota
+			aliases d:"alternative names for gene or derived proteins" example:BS,RECQL3,RECQ2
+			commentEvolution
+			commentFunction
+			commentCause
+			commentAging
+			commentReferenceLinks
+			consPhylo d:"conservative in species" range:Species example:Euteleostomi
+			expression range:Expression d:"gene expression in various organs and tissues"
+			functionalClusters range:FunctionalCluster example:"DNA metabolism","Regulation of transcription/translation"
+			id key:<t> range:Integer example:68
+			name example:"Bloom syndrome, RecQ helicase-like"
+			ncbiid example:641
+			rating
+			symbol d:"gene abbreviation, as it usually used in other databases like UniProt" example:BLM
+			uniprot example:BLM_HUMAN
+		_functional_cluster_property +domain:FunctionalCluster +ns-prefix:fc_
+			id key:<t> range:Integer
+			name range:OGTerm
+		_expression_property +domain:Expression +ns-prefix:ep_
+			name key:<t> range:Organ,Tissue
+			exp_rpkm range:Float
+		
+	

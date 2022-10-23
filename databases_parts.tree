@@ -1,0 +1,43 @@
+databases_structure
+	EMBL-EBI
+		ArraYExpress
+		Biomodels
+		EMDB
+		ENA
+		IntAct
+		PRIDE
+	ENCODE_Consortium
+		GENCODE
+	NBRF
+		PIR
+			RESID d:"collection of annotations and structures for protein modifications"
+	NCBI
+		COG
+		Entrez
+		GenBank
+	PDBe
+		PDBeFold d:"identifies structural homologues in the PDB"
+		PDBePISA d:"explores macromolecular (protein, DNA/RNA and ligand) interfaces and predict the quarternary structure of a given protein"
+		PDBeMotif d:"searches and analyses protein-ligand interactions, binding environments and structural motifs"
+		WwPDB_validation_server d:"generates X-ray structure validation reports to assess the quality of early, intermediate and near-final models"
+	Personal_Genome_Project
+		Harvard_PGP
+		PGP_Canada
+		PGP_UK
+	Swiss_Institute_of_Bioinformatics abbr:SIB
+		EC
+		Expasy
+		Rhea
+		SwissLipids
+		SwissOrthology
+		SWISS-MODEL
+	Stanford_Research_Institute abbr:SRI
+		BioCyc
+			HumanCyc
+			MetaCyc
+	UniProt_Consortium
+		SwissProt d:"manually annotated, non-redundant protein sequence database"
+		TrEMBL d:"high-quality computationally analyzed records with automatic annotation"
+		UniParc deabbr:"UniProt Archive" d:"protein sequences from the main, publicly available protein sequence databases"
+		UniProtKB
+		UniRef deabbr:"Uniprot Reference clusters" d:"three databases of clustered sets of protein sequences from UniProtKB and selected UniParc records"

@@ -1,0 +1,13 @@
+software_and_GUI_online_services
+	Blast url:blast.ncbi.nlm.nih.gov d:"finds regions of similarity between biological sequences"
+	CellDesigner url:celldesigner.org platform:JRE
+	Ensembl_Genome_Browser url:ensembl.org
+	FASTA before:FASTP d:"DNA and protein sequence alignment" start:1985
+	NCBI_Genome_Data_Viewer url:ncbi.nlm.nih.gov/genome/gdv
+	Newt url:newteditor.org
+	PathVisio
+	Promethease url:promethease.com d:"literature retrieval system that creates a personal DNA report based on your DNA data"
+	UCSC_Genome_Browser
+	VANTED
+		SBGN-ED
+	yEd

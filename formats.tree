@@ -1,0 +1,30 @@
+formats
+	BAM d:"Compressed binary version of SAM file" type:file_format
+	BioPAX deabbr:"Biological Pathway Exchange"
+	CSV variants:TSV
+	DDBJ_format d:"format to write DNA sequence"
+	DisProtID type:db_index used-by:DisProt format:`DP\d\d\d\d\d`
+	EMBL_format d:"format to write DNA sequence"
+	GeneBank_format d:"format to write DNA sequence"
+	FASTA start:1985 d:"A is an extension of FAST-P (protein), FAST-N (nucleotide). The format for FASTA program, that searches for sequence similarities"
+	FASTQ from:FASTA
+	GAF deabbr:"GO Annotation File"
+	GFF dwabbr:"General Feature Format" d:"file format used for describing genes and other features of DNA, RNA and protein sequences"
+	GPML deabbr:"Graphical Pathway Markup Language"
+	JSON
+	Medline d:"tagged field format that displays all of the fields held in a Medline record for a journal reference" ref:formats/medline.tree
+	OBO deabbr:"Open Biomedical Ontologies" language:OWL
+	PDB deabbr:"Protein Data Bank format"
+	RIS d:"a standardized tag format for enabling citation programs to exchange data" ref:formats/ris.tree
+	SAM deabbr:"Sequence Alignment Map" type:file_format
+	SwissProtID type:db_index used-by:UniProt/SwissProt format:`[A-Z]\d\d\d\d\d`
+	SVS d:"TIFF-based format for tiled medical images"
+	Tabtree
+	TOML
+	Turtle language:RDF,OWL abbr:TTL
+	WCF
+	UniProtKB type:db_index used-by:UniProt format:`[PQ]\d\d\a\a\d`
+	VCF deabbr:"Variant Call Format" d:"Format for storing gene sequence variations"
+	XML
+	YAML
+		

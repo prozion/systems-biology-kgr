@@ -1,0 +1,26 @@
+journals section-class:Journal
+	Aging_Cell start:2002 freq:24 publisher:Wiley
+	Bioinformatics start:1998 publisher:Oxford_University_Press
+	Biotechnology_and_Bioengineering start:1959 publisher:John_Wiley_and_Sons
+	Biotechnology_Progress start:1985 freq:24 publisher:Wiley-Blackwell
+	BMC_Systems_Biology start:2007 publisher:BMC
+	Cell start:1974 freq:104 freq/w:2 publisher:Cell_Press
+	Cell_Systems start:2015 publisher:Cell_Press
+	Current_Opinion_in_Chemical_Biology start:1997 publisher:Elsevier
+	Database start:2009 publisher:Oxford_University_Press
+	Genome_Informatics start:1990 publisher:JSB
+	Genome_Research start:1991 freq:12 publisher:Cold_Spring_Harbor_Laboratory_Press
+	GeroScience former:Age start:1978 publisher:Springer
+	Journal_of_the_Royal_Society_Interface alt-id:RSIF start:2004 publisher:The_Royal_Society url:royalsocietypublishing.org/journal/rsif
+	Metabolic_Engineering start:1999 freq:6 publisher:Elsevier
+	Metabolomics start:2005 freq:6? publisher:Springer_Nature
+	Molecular_BioSystems start:2005 publisher:RSC
+	Molecular_Systems_Biology start:2005 publisher:EMBO_Press
+	Nature_Biotechnology start:1996 publisher:Nature_Publishing_Group
+	Neurobiology_of_Aging start:1980 publisher:Elsevier
+	Nucleic_Acids_Research start:1974 publisher:Oxford_University_Press
+	PLOS_One start:2006 publisher:PLOS
+	PNAS deabbr:"Proceedings of the National Academy of Sciences" start:1915 freq/w:1 publisher:NAS
+	Rejuvenation_Research start:1998 publisher:Mary_Ann_Liebert editor:Aubrey_de_Grey
+	Trends_in_Biotechnology start:1983 pubisher:Elsevier
+	Trends_in_Cell_Biology start:1991 publisher:Elsevier
